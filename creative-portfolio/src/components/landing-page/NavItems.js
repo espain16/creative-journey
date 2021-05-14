@@ -16,7 +16,7 @@ export const NavItems = [
     title: "Resume",
     navId: "#resume"
   }
-]
+];
 
 //The resume may need react router because I want the resume to open on a new tab or maybe a modal who knows just yet.
  

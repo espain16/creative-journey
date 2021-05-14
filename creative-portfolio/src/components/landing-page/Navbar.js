@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import  { NavItems } from './NavItems';
 
 class Navbar extends Component {
-
   render(){
     return(
       <nav>
